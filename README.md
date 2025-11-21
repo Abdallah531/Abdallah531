@@ -1,4 +1,4 @@
-![Banner](https://github.com/Abdallah531/Abdallah531/blob/main/ChatGPT%20Image%20Nov%2021,%202025,%2003_48_15%20PM.png?raw=true)
+![Banner](https://github.com/Abdallah531/Abdallah531/blob/main/Gemini_Generated_Image_ejrnx1ejrnx1ejrn.png?raw=true)
 # Hi, I'm Abdallah Mahmoud 👋
 
 **Computer Science Graduate | Software Engineer**

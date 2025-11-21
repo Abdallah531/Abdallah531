@@ -1,4 +1,4 @@
-![Banner](ChatGPT Image Nov 21, 2025, 03_48_15 PM.png)
+![Banner](https://github.com/Abdallah531/Abdallah531/blob/main/ChatGPT%20Image%20Nov%2021,%202025,%2003_48_15%20PM.png?raw=true)
 # Hi, I'm Abdallah Mahmoud 👋
 
 **Computer Science Graduate | Software Engineer**

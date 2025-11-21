@@ -40,13 +40,13 @@ Computer Science graduate with strong expertise in **backend development**, **da
 
 ## 🔹 GitHub Stats
 
-![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallah531&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah531&layout=compact&theme=radical)
 
 ---
 ## 🔹 Contact Me
 - 📧 Email: your-email@example.com  
-- 🌐 LinkedIn: [Your LinkedIn](link)  
+- 🌐 LinkedIn: [Your LinkedIn](www.linkedin.com/in/abdullah-mahmoud-960a1b255
+)  
 - 🌟 GitHub: [Your GitHub](https://github.com/your-username)  
 
 ---

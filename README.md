@@ -1,3 +1,4 @@
+![Banner](https://link-to-your-banner-image.png)
 # Hi, I'm Abdallah Mahmoud 👋
 
 **Computer Science Graduate | Software Engineer**

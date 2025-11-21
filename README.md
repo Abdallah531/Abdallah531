@@ -1,6 +1,6 @@
 # Hi, I'm Abdallah Mahmoud 👋
 
-**Computer Science Graduate | Software Engineer | Data Scientist**
+**Computer Science Graduate | Software Engineer**
 
 ---
 
@@ -44,9 +44,8 @@ Computer Science graduate with strong expertise in **backend development**, **da
 
 ---
 ## 🔹 Contact Me
-- 📧 Email: your-email@example.com  
-- 🌐 LinkedIn: [Your LinkedIn](www.linkedin.com/in/abdullah-mahmoud-960a1b255
-)  
-- 🌟 GitHub: [Your GitHub](https://github.com/your-username)  
+- 📧 Email: a.mahmoud6111@gmail.com  
+- 🌐 LinkedIn: [Your LinkedIn](www.linkedin.com/in/abdullah-mahmoud-960a1b255)  
+- 🌟 GitHub: [Your GitHub](https://github.com/Abdallah531)  
 
 ---

@@ -1,4 +1,4 @@
-![Banner](https://link-to-your-banner-image.png)
+![Banner](ChatGPT Image Nov 21, 2025, 03_48_15 PM.png)
 # Hi, I'm Abdallah Mahmoud 👋
 
 **Computer Science Graduate | Software Engineer**

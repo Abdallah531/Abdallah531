@@ -40,8 +40,8 @@ Computer Science graduate with strong expertise in **backend development**, **da
 
 ## 🔹 GitHub Stats
 
-![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallah531&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah531&layout=compact&theme=radical)
 
 ---
 ## 🔹 Contact Me

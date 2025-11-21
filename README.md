@@ -1,4 +1,4 @@
-![Banner](https://github.com/Abdallah531/Abdallah531/blob/main/Gemini_Generated_Image_ejrnx1ejrnx1ejrn.png?raw=true)
+![Banner](https://github.com/Abdallah531/Abdallah531/blob/main/Whisk_e7b7d50d5dabfca8a6f46cc12e99a248dr.png?raw=true)
 # Hi, I'm Abdallah Mahmoud 👋
 
 **Computer Science Graduate | Software Engineer**

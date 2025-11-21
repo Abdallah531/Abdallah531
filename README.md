@@ -9,7 +9,7 @@ Computer Science graduate with strong expertise in **backend development**, **da
 
 ## 🔹 Skills
 
-**Programming Languages:** Java, Python, SQL, C++ 
+**Programming Languages:** Java, Python, SQL, C++  
 **Backend:** Spring Framework, REST APIs  
 **Databases & Data Engineering:** MySQL, SQL Server, Data Pipelines, ETL  
 **AI & Machine Learning:** ML Algorithms, AI Fundamentals, Prompt Engineering  

@@ -1,4 +1,3 @@
-![Banner](https://github.com/Abdallah531/Abdallah531/blob/main/Whisk_e7b7d50d5dabfca8a6f46cc12e99a248dr.png?raw=true)
 # Hi, I'm Abdallah Mahmoud 👋
 
 **Software Engineer**

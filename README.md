@@ -1,6 +1,6 @@
 # Hi, I'm Abdallah Mahmoud 👋
 
-**Software Engineer**
+**Junior Data Engineer**
 
 ---
 
